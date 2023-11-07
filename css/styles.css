@@ -11024,5 +11024,7 @@ li{
   text-decoration: none;
 }
 
-/* Bottom Nav  */
-
+/* 5 Star Nav  */
+.checked {
+  color: orange;
+}
